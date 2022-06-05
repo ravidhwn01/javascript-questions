@@ -114,8 +114,7 @@ function myFunction(a, b) {
 
 09. Question : What are the primitive data types in Javascript?
 >>**Primitive data types** : The predefined data types provided by JavaScript language are known as primitive data types. Primitive data types are also known as in-built data types.
-10. Question : What is DOM?
->>With the HTML DOM, JavaScript can access and change all the elements of an HTML document.When a web page is loaded, the browser creates a Document Object Model of the page.The HTML DOM is a standard for how to get, change, add, or delete HTML elements.
+
 ## Number
 Number data type in javascript can be used to hold decimal values as well as values without decimal.
 ```
@@ -162,6 +161,9 @@ This data type can hold only one possible value that is null.
 </script>
 
 ```
+10. Question : What is DOM?
+>>With the HTML DOM, JavaScript can access and change all the elements of an HTML document.When a web page is loaded, the browser creates a Document Object Model of the page.The HTML DOM is a standard for how to get, change, add, or delete HTML elements.
+>>
 11. Question : Why do we need DOM?
 >>With the object model, JavaScript gets all the power it needs to create dynamic HTML:
 
