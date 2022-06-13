@@ -103,10 +103,18 @@ alert( map.size ); // 3
 
 
 
-
 09. question :What are array methods? List a few names?
->>
+>>aaray methods are the oprations on array for particular task.
+1. sort():	Sorts the elements of an array.
+2. reverse():	Reverses the order of the elements in an array
+3. indexOf()	Search the array for an element and returns its position
+4. find():	Returns the value of the first element in an array that pass a test etc.
+
 
 
 10. question :In how many ways can we traverse through an array in Javascript?
->>
+>>There are multiple ways one can iterate over an array in Javascript. The most useful ones are mentioned below. ...
+Using while loop. 
+using forEach method.
+Using every method. 
+Using map. 
